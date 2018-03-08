@@ -1,0 +1,1 @@
+This is a project to build a clone of the Google search homepage. This project is intended to put newly learned CSS and HTML concepts to work. From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
